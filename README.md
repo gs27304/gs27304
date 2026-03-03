@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gs27304/gs27304/main/assets/banner.gif" />
+  <img src="https://github.com/gs27304/gs27304/blob/main/assests/bannar.gif" />
 </p>
 
 <h1 align="center">Hey, I'm Gajendra Singh 👋</h1>
