@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gs27304/gs27304/main/assets/banner.gif" />
+</p>
+
 <h1 align="center">Hey, I'm Gajendra Singh 👋</h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer | AI Systems Builder</h3>
 
