@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.gif" width="100%" />
+</p>
+
+<br/>
 <h1 align="center">Hey, I'm Gajendra Singh 👋</h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer | AI Systems Builder</h3>
 
